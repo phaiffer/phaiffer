@@ -2,8 +2,8 @@
 **Data Engineer | Azure & Databricks | Lakehouse Architecture | Data Products**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phaiffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
 
 ---
@@ -39,7 +39,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-phaiffer-cardoso-aa6759102/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://willian.phaiffertech.com.br)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://www.phaiffertech.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.phaiffer@phaiffertech.com.br)
 
 </div>
