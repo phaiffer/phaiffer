@@ -1,70 +1,83 @@
 # Willian Phaiffer Cardoso
 
-Data Engineer focused on Azure, Databricks, lakehouse architecture, and data products that connect pipelines with serving layers, APIs, and dashboards.
+**Data Engineer** building lakehouse-style workflows, serving layers, APIs, and analytics dashboards.
 
-I work across the data product path: ingestion, transformation, analytical modeling, PostgreSQL or SQL-based serving, lightweight REST APIs, and dashboard consumption. My background in software and web development helps me think beyond the pipeline and deliver data work that can be inspected, queried, and used.
+I work across the data product path: ingestion, transformation, analytical modeling, SQL serving, REST APIs, and dashboard consumption. My current portfolio direction is focused on Azure, Databricks, PySpark, SQL, Medallion Architecture, and product-oriented engineering through PhaifferTech.
 
-## About
+<p>
+  <a href="https://www.linkedin.com/in/willian-phaiffer-cardoso-aa6759102/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Willian%20Phaiffer%20Cardoso-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:willian.phaiffer@phaiffertech.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-willian.phaiffer%40phaiffertech.com.br-555555?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/phaiffer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-phaiffer-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
-- Data Engineering in Azure-oriented environments, with hands-on work around Azure Data Factory, Azure Databricks, Snowflake, PySpark, SQL, PostgreSQL, and Azure SQL.
-- Portfolio focus on Medallion Architecture, lakehouse patterns, data quality, serving layers, API access, and analytics-ready outputs.
-- Product-oriented engineering through PhaifferTech, where I organize software, data, and analytics initiatives.
+## Technical Highlights
 
-## What I am building now
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
-- End-to-end data engineering portfolio cases with realistic handoffs from raw data to consumption.
-- Lakehouse and Medallion-style workflows using Python, PySpark, SQL, dbt-style modeling practices, and local/cloud-friendly architecture.
-- PostgreSQL serving layers, Flask APIs, and dashboards that make analytical outputs easier to validate and present.
-- PhaifferTech product work, including PetFlow as an important product context currently paused briefly and expected to resume.
+| Data engineering | Serving and consumption | Product engineering |
+| --- | --- | --- |
+| Azure Data Factory, Azure Databricks, Snowflake, PySpark, SQL | PostgreSQL, Azure SQL, MySQL, Flask APIs, analytical views | React, Vite, TypeScript, Docker, Git, Azure DevOps |
 
-## Featured Work
+## GitHub Snapshot
 
-### [data-engineering-portfolio](https://github.com/phaiffer/data-engineering-portfolio)
+<p>
+  <img height="165" alt="Willian Phaiffer GitHub stats" src="https://github-readme-stats.vercel.app/api?username=phaiffer&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=default">
+  <img height="165" alt="Top languages used in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaiffer&layout=compact&hide_border=true&theme=default">
+</p>
 
-Portfolio monorepo for end-to-end data engineering case studies. The current flagship case is a hospital analytics workflow that moves from Kaggle ingestion through Bronze, Silver, and Gold processing into PostgreSQL serving views, a Flask API, and a React dashboard.
+## Featured Projects
 
-**Why it matters:** this is the clearest representation of my current data product direction: pipeline engineering, serving design, API access, and dashboard consumption in one inspectable project.
-
-### [azure-databricks-retail-pipeline](https://github.com/phaiffer/azure-databricks-retail-pipeline)
-
-Retail pipeline case simulating a Databricks Lakehouse flow with public API ingestion, PySpark processing, Bronze/Silver/Gold layers, and MySQL analytical exports.
-
-**Why it matters:** it connects Azure/Databricks-style pipeline design with a practical analytics serving destination.
-
-### [nyc-tlc-lakehouse](https://github.com/phaiffer/nyc-tlc-lakehouse)
-
-Local Spark and Delta Lakehouse project using NYC TLC data with a Medallion model, versioned data contracts, quality outcomes, metrics, and drift monitoring.
-
-**Why it matters:** it emphasizes lakehouse discipline: Bronze/Silver/Gold modeling, deterministic local reruns, data contracts, quality gates, and BI-oriented Gold outputs.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/phaiffer/data-engineering-portfolio">data-engineering-portfolio</a></h3>
+      <p>End-to-end portfolio case studies. Current flagship: hospital analytics from ingestion to Bronze/Silver/Gold outputs, PostgreSQL serving, Flask API, and React dashboard.</p>
+      <p><strong>Signal:</strong> data product execution from pipeline to consumption.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/phaiffer/azure-databricks-retail-pipeline">azure-databricks-retail-pipeline</a></h3>
+      <p>Retail pipeline case simulating a Databricks Lakehouse flow with public API ingestion, PySpark processing, Medallion layers, and MySQL analytical exports.</p>
+      <p><strong>Signal:</strong> Azure and Databricks-oriented pipeline design.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/phaiffer/nyc-tlc-lakehouse">nyc-tlc-lakehouse</a></h3>
+      <p>Local Spark and Delta Lakehouse project using NYC TLC data, Medallion modeling, data contracts, quality outcomes, metrics, and drift monitoring.</p>
+      <p><strong>Signal:</strong> lakehouse discipline and analytics-ready Gold outputs.</p>
+    </td>
+  </tr>
+</table>
 
 ## Other Public Projects
 
-- [enterprise-industrial-data-platform](https://github.com/phaiffer/enterprise-industrial-data-platform) - notebook-first local lakehouse and analytics engineering project using public datasets, Bronze/Silver/Gold contracts, DuckDB, dbt marts, Great Expectations checks, observability outputs, and CI automation.
-- [crypto-realtime-streaming](https://github.com/phaiffer/crypto-realtime-streaming) - streaming-oriented pipeline using Binance API ingestion, Kafka, Spark Structured Streaming, and MySQL persistence for market-data analytics.
-
-## Core Stack
-
-**Data engineering:** Python, SQL, PySpark, Azure Data Factory, Azure Databricks, Snowflake, Medallion Architecture, lakehouse patterns, Parquet, Delta-style workflows.
-
-**Serving and analytics:** PostgreSQL, Azure SQL, MySQL, Flask, REST APIs, analytical views, dashboard-oriented data models.
-
-**Product and software engineering:** React, Vite, TypeScript, Docker, Git, Azure DevOps, CI/CD practices, technical documentation.
+| Project | Focus |
+| --- | --- |
+| [enterprise-industrial-data-platform](https://github.com/phaiffer/enterprise-industrial-data-platform) | Notebook-first local lakehouse and analytics engineering project with public datasets, Bronze/Silver/Gold contracts, DuckDB, dbt marts, Great Expectations checks, observability outputs, and CI automation. |
+| [crypto-realtime-streaming](https://github.com/phaiffer/crypto-realtime-streaming) | Streaming-oriented pipeline using Binance API ingestion, Kafka, Spark Structured Streaming, and MySQL persistence for market-data analytics. |
 
 ## Current Focus
 
-- Portfolio-grade data engineering projects that are small enough to inspect but complete enough to show real handoffs.
-- Azure and Databricks-oriented pipeline architecture.
-- Serving-layer design for analytics consumption.
-- Data products that connect backend pipelines with usable frontend or API outputs.
+- End-to-end data engineering portfolio cases with realistic handoffs from raw data to consumption.
+- Lakehouse and Medallion-style workflows using Python, PySpark, SQL, and cloud-friendly architecture.
+- PostgreSQL serving layers, Flask APIs, and dashboards for analytical delivery.
+- PhaifferTech product work, including PetFlow as an important product context to resume.
 
 ## PhaifferTech
 
-PhaifferTech is my technical and product workspace for evolving software, data, and analytics initiatives. It is where I organize product-oriented engineering work alongside my data engineering portfolio direction.
-
-Current context includes data engineering portfolio work, platform experimentation, and PetFlow as a product initiative to resume.
+PhaifferTech is my technical and product workspace for software, data, and analytics initiatives. It is where I organize product-oriented engineering alongside my current data engineering portfolio work.
 
 ## Contact
 
-- LinkedIn: [Willian Phaiffer Cardoso](https://www.linkedin.com/in/willian-phaiffer-cardoso-aa6759102/)
-- Email: [willian.phaiffer@phaiffertech.com.br](mailto:willian.phaiffer@phaiffertech.com.br)
-- GitHub: [@phaiffer](https://github.com/phaiffer)
+| Channel | Link |
+| --- | --- |
+| LinkedIn | [Willian Phaiffer Cardoso](https://www.linkedin.com/in/willian-phaiffer-cardoso-aa6759102/) |
+| Email | [willian.phaiffer@phaiffertech.com.br](mailto:willian.phaiffer@phaiffertech.com.br) |
+| GitHub | [@phaiffer](https://github.com/phaiffer) |
