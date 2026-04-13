@@ -2,8 +2,8 @@
 **Data Engineer | Azure & Databricks | Lakehouse Architecture | Data Products**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phaiffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phaiffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -13,34 +13,18 @@
 <details>
 <summary><b>🇧🇷 Português (Clique para expandir)</b></summary>
 
-### Sobre Mim
-Sou Engenheiro de Dados especializado em construir produtos de dados ponta a ponta utilizando Azure, Databricks e PySpark. Atuo desde a ingestão até a entrega de dashboards e APIs.
-
-#### 🛠️ Competências Técnicas
-- **Cloud:** Azure (Data Factory, Databricks, Synapse), Snowflake, GCP.
-- **Big Data:** PySpark, Spark SQL, Delta Lake, Medallion Architecture.
-- **DevOps:** Terraform, Docker, Kubernetes (AKS), CI/CD Pipelines.
-
-#### 🚀 Projetos em Destaque
-* **data-engineering-portfolio:** Pipeline hospitalar ponta a ponta com Databricks e React.
-* **nyc-tlc-lakehouse:** Implementação de Data Contracts e Drift Monitoring.
+### 🚀 Projetos em Destaque
+* **[data-engineering-portfolio](https://github.com/phaiffer/data-engineering-portfolio):** Pipeline hospitalar ponta a ponta com Databricks e React.
+* **[nyc-tlc-lakehouse](https://github.com/phaiffer/nyc-tlc-lakehouse):** Implementação de Data Contracts e Drift Monitoring.
 
 </details>
 
 <details>
 <summary><b>🇺🇸 English (Click to expand)</b></summary>
 
-### About Me
-I am a Data Engineer focused on building end-to-end data products using Azure, Databricks, and Lakehouse Architecture. I bridge the gap between raw data and analytical value.
-
-#### 🛠️ Technical Skills
-- **Cloud & Data:** Azure Data Factory, Databricks, Snowflake, SAP HANA.
-- **Languages:** Python (PySpark), SQL, JavaScript, C#.
-- **Infrastructure:** Terraform, Docker, AKS, GitHub Actions.
-
-#### 🚀 Featured Projects
-* **azure-databricks-retail-pipeline:** Real-world retail Lakehouse simulation using PySpark.
-* **crypto-realtime-streaming:** Real-time data processing with Kafka and Spark.
+### 🚀 Featured Projects
+* **[azure-databricks-retail-pipeline](https://github.com/phaiffer/azure-databricks-retail-pipeline):** Real-world retail Lakehouse simulation using PySpark.
+* **[crypto-realtime-streaming](https://github.com/phaiffer/crypto-realtime-streaming):** Real-time data processing with Kafka and Spark.
 
 </details>
 
