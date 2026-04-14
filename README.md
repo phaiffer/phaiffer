@@ -124,9 +124,10 @@ Right now, I am focused on projects involving:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&theme=radical&langs_count=5" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="58%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&theme=radical&langs_count=5" width="38%" />
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaiffer&theme=github-dark&area=true" width="100%" />
