@@ -2,10 +2,17 @@
 **Data Engineer | Azure & Databricks | Lakehouse Architecture | Data Products**
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=dracula" alt="Top Langs" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ## 🌐 Escolha seu Idioma / Choose your Language
