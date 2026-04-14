@@ -123,10 +123,24 @@ Right now, I am focused on projects involving:
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="58%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&theme=radical&langs_count=5" width="38%" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+        width="100%"
+        height="220"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&theme=radical&langs_count=5"
+        width="100%"
+        height="220"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
