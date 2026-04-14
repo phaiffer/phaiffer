@@ -125,7 +125,7 @@ Right now, I am focused on projects involving:
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phaiffer&theme=radical&langs_count=5" height="180px" />
 </div>
 
 <p align="center">
