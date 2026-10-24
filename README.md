@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Willian Phaiffer 👋</h1>
+<h1 align="center">Willian Phaiffer</h1>
 
 <p align="center">
-  <strong>Data Engineer & Software Engineer from Brazil 🇧🇷 · Founder of <a href="https://www.phaiffertech.com.br">PhaifferTech</a></strong>
+  <strong>Data Engineer & Software Engineer · Brazil · Founder of <a href="https://www.phaiffertech.com.br">PhaifferTech</a></strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧭 How I work
+## How I work
 
 - **Local-first, reproducible.** Every project here runs on a laptop with one `make` command before it touches the cloud.
 - **Honest scope.** READMEs say what is implemented and what is still planned. No fake "production" claims.
@@ -26,21 +26,21 @@
 
 ---
 
-## 🚀 Featured work
+## Featured work
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🏛️ [**public-spending-analytics**](https://github.com/phaiffer/public-spending-analytics) | 13 years of Brazilian federal spending from Portal da Transparência: **155 monthly archives**, row-count checked, modeled incrementally. **85 dbt nodes, all green.** | Python · dbt · DuckDB · Parquet · Streamlit |
-| 🚕 [**nyc-tlc-lakehouse**](https://github.com/phaiffer/nyc-tlc-lakehouse) | Medallion lakehouse over NYC taxi trips with **versioned data contracts**, quarantine, drift monitoring and CI quality gates. | PySpark · Delta Lake · GitHub Actions |
-| 📚 [**data-engineering-portfolio**](https://github.com/phaiffer/data-engineering-portfolio) | Six complementary case studies: medallion, dbt marts, Prefect orchestration, Redpanda streaming and BigQuery. | dbt · Prefect · Redpanda · BigQuery |
-| 🔗 [**konsyra**](https://github.com/phaiffer/konsyra) | Open-source reliability layer that **independently reconciles on-chain data** across sources. *Architecture phase.* | Python |
-| ⚡ [**crypto-realtime-streaming**](https://github.com/phaiffer/crypto-realtime-streaming) | Binance → Kafka → Spark Structured Streaming → MySQL, 1-minute windowed aggregates. | Kafka · Spark · Docker |
-| 🐾 [**phaiffertech**](https://github.com/phaiffer/phaiffertech) | Multi-tenant SaaS platform (PetFlow + CRM) with JWT/RBAC, observability and IaC. | Java 21 · Spring Boot · Next.js · Terraform · GCP |
-| 🩺 [**trichology-clinic-platform**](https://github.com/phaiffer/trichology-clinic-platform) | Clinical web platform for trichology clinics, LGPD-conscious from day one. | Spring Boot · Next.js · PostgreSQL |
+| [**public-spending-analytics**](https://github.com/phaiffer/public-spending-analytics) | 13 years of Brazilian federal spending from Portal da Transparência: **155 monthly archives**, row-count checked, modeled incrementally. **85 dbt nodes, all green.** | Python · dbt · DuckDB · Parquet · Streamlit |
+| [**nyc-tlc-lakehouse**](https://github.com/phaiffer/nyc-tlc-lakehouse) | Medallion lakehouse over NYC taxi trips with **versioned data contracts**, quarantine, drift monitoring and CI quality gates. | PySpark · Delta Lake · GitHub Actions |
+| [**data-engineering-portfolio**](https://github.com/phaiffer/data-engineering-portfolio) | Six complementary case studies: medallion, dbt marts, Prefect orchestration, Redpanda streaming and BigQuery. | dbt · Prefect · Redpanda · BigQuery |
+| [**konsyra**](https://github.com/phaiffer/konsyra) | Open-source reliability layer that **independently reconciles on-chain data** across sources. *Architecture phase.* | Python |
+| [**crypto-realtime-streaming**](https://github.com/phaiffer/crypto-realtime-streaming) | Binance → Kafka → Spark Structured Streaming → MySQL, 1-minute windowed aggregates. | Kafka · Spark · Docker |
+| [**phaiffertech**](https://github.com/phaiffer/phaiffertech) | Multi-tenant SaaS platform (PetFlow + CRM) with JWT/RBAC, observability and IaC. | Java 21 · Spring Boot · Next.js · Terraform · GCP |
+| [**trichology-clinic-platform**](https://github.com/phaiffer/trichology-clinic-platform) | Clinical web platform for trichology clinics, LGPD-conscious from day one. | Spring Boot · Next.js · PostgreSQL |
 
 ---
 
-## 🛠️ Toolbox
+## Toolbox
 
 **Data** &nbsp;
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -68,11 +68,7 @@
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phaiffer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=FF694B&icon_color=FF694B" height="165" />
-</p>
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phaiffer/phaiffer/output/snake-dark.svg" />
@@ -82,7 +78,7 @@
 ---
 
 <details>
-<summary><strong>🇧🇷 Em português</strong></summary>
+<summary><strong>Em português</strong></summary>
 <br/>
 
 Sou Engenheiro de Dados e Engenheiro de Software, fundador da **PhaifferTech**. Gosto do caminho inteiro: da resposta crua de uma API até um data mart testado, e do schema do banco até a tela que alguém realmente usa.
